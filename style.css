@@ -225,4 +225,10 @@ section {
   --clr-outer: #2193b0;
   --clr-accent: #008951;
 }
+
+@media (min-width: 60em) {
+  .product__img {
+    width: 40%;
+  }
+}
 /*# sourceMappingURL=style.css.map */

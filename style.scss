@@ -184,7 +184,6 @@ section{
                 margin: 0 0 0 -5em;
                 shape-margin: 2em;
             }
-
         }
     }
 }
@@ -205,4 +204,11 @@ section{
     --clr-inner: #6dd5ed;
     --clr-outer: #2193b0;
     --clr-accent: #008951;
+}
+
+// Adding one more container for responsiveness
+@media (min-width:60em){
+    .product__img{
+        width: 40%;
+    }
 }
