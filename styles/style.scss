@@ -89,7 +89,7 @@ section{
     padding: 15em 0;
     background: #222;
     @supports (background-blend-mode: multiply) {
-        background: url(https://github.com/Vaib215/Show-A-Shoe/blob/main/img/shoe-3.png?raw=true),
+        background: url(https://raw.githubusercontent.com/Vaib215/Show-A-Shoe/main/img/shoe-3.png),
             radial-gradient(#444, #111);
         background-blend-mode: multiply;
         background-attachment: fixed;
