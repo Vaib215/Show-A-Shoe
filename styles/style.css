@@ -102,7 +102,7 @@ section {
 
 @supports (background-blend-mode: multiply) {
   .hero {
-    background: url(/img/shoe-3.png), radial-gradient(#444, #111);
+    background: url(https://github.com/Vaib215/Show-A-Shoe/blob/main/img/shoe-3.png?raw=true), radial-gradient(#444, #111);
     background-blend-mode: multiply;
     background-attachment: fixed;
     background-repeat: no-repeat;
